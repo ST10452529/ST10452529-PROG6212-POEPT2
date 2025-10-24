@@ -1,0 +1,5 @@
+﻿Build started at 9:52 AM...
+1>------ Build started: Project: WebApplication1, Configuration: Debug Any CPU ------
+1>  WebApplication1 -> C:\Users\RC_Student_Lab\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 9:52 AM and took 00.307 seconds ==========

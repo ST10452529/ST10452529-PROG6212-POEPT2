@@ -1,0 +1,87 @@
+﻿/* ===== General Page Styling ===== */
+body {
+    background-color: #f8f9fa; /* soft gray background */
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* ===== Navbar ===== */
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.navbar-brand, .nav-link {
+    color: #f8f9fa !important;
+    transition: color 0.3s;
+}
+
+    .nav-link:hover {
+        color: #ffc107 !important; /* warm gold hover */
+    }
+
+/* ===== Page Containers ===== */
+.container, .main-container {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+/* ===== Headings ===== */
+h1, h2, h3 {
+    color: #212529;
+    font-weight: 600;
+}
+
+/* ===== Buttons ===== */
+.btn-primary {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #218838;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #c82333;
+}
+
+/* ===== Grid/Table Styling ===== */
+.table {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+    .table th {
+        background-color: #343a40;
+        color: white;
+    }
+
+    .table td {
+        vertical-align: middle;
+    }
+
+/* ===== Form Controls ===== */
+.form-control {
+    border-radius: 5px;
+    box-shadow: none;
+    border-color: #ced4da;
+}
+
+/* ===== Footer ===== */
+footer {
+    background-color: #343a40;
+    color: #ccc;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 30px;
+}
